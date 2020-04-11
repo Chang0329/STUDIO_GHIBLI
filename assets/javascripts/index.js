@@ -1,5 +1,4 @@
 function play() {
-  console.log("!@")
   let playBtn = document.getElementById("playBtn")
   let mainImage = document.getElementById("mainImage")
   let mainVideo = document.getElementById("mainVideo")
